@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GM9/9S+nE2Rv58BoomFk5mTCWJzORivbWQR6HGRTUH1tNxCPcK12UbUnuuTIG3jREtEY/xIG1JCsPQ+cJD02fA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lemur\\source\\repos\\FifthTask\\MembersLib\\MembersLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lemur\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lemur\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
